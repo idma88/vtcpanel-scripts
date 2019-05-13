@@ -9,5 +9,5 @@
 ## [Report page fix](report_fix.user.js)
 Исправляет глюк с переносом на странице Мои доклады в Firefox
 
-## [VTCPanel report form fix](report_form_fix.user.js)
+## [Report form fix](report_form_fix.user.js)
 Исправляет тип полей "Пробег", "Заработано денег", "Опыт на данный момент"
