@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         VTCPanel report page fix
 // @namespace    vtcpanel
-// @version      1.0
+// @version      1.1
 // @description  Исправляет глюк с переносом на странице Мои доклады в Firefox
+// @icon         https://vtcpanel.com/favicon.ico
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*/report
 // @match        https://vtcpanel.com/contracts

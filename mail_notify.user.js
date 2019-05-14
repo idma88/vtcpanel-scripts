@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         VTCPanel mail icon highlight
 // @namespace    vtcpanel
-// @version      1.2
+// @version      1.3
 // @description  "Подсвечивает" иконку почты, если есть новые сообщения
+// @icon         https://vtcpanel.com/favicon.ico
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*
 // @grant        none

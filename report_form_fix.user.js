@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         VTCPanel report form fix
 // @namespace    vtcpanel
-// @version      1.0
+// @version      1.1
 // @description  Исправляет тип полей "Пробег", "Заработано денег", "Опыт на данный момент"
+// @icon         https://vtcpanel.com/favicon.ico
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*/report
 // @match        https://vtcpanel.com/contracts
