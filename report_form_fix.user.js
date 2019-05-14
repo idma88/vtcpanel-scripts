@@ -4,6 +4,7 @@
 // @version      1.1
 // @description  Исправляет тип полей "Пробег", "Заработано денег", "Опыт на данный момент"
 // @icon         https://vtcpanel.com/favicon.ico
+// @updateURL    https://github.com/idma88/vtcpanel-scripts/raw/master/report_form_fix.user.js
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*/report
 // @match        https://vtcpanel.com/contracts

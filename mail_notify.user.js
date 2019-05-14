@@ -4,6 +4,7 @@
 // @version      1.3
 // @description  "Подсвечивает" иконку почты, если есть новые сообщения
 // @icon         https://vtcpanel.com/favicon.ico
+// @updateURL    https://github.com/idma88/vtcpanel-scripts/raw/master/report_fix.user.js
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*
 // @grant        none

@@ -4,6 +4,7 @@
 // @version      1.1
 // @description  Исправляет глюк с переносом на странице Мои доклады в Firefox
 // @icon         https://vtcpanel.com/favicon.ico
+// @updateURL    https://github.com/idma88/vtcpanel-scripts/raw/master/report_fix.user.js
 // @author       Иванов Дмитрий (aka IDma88)
 // @match        https://vtcpanel.com/*/report
 // @match        https://vtcpanel.com/contracts
